@@ -8,9 +8,9 @@
 I am Rohit 😃. I am from Jind, Haryana and currently pursuing my BTech from Guru Jambheshwar University of Science and Technology in CSE with Specialization in CSE . I Love to explore and learn new technologies
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, ReactJS**.
+- Front-end development using **HTML, Javascript, CSS**.
 - Backend development using **SQL**.
-- Robust full-stack Application implementation.
+- Familiar with **Blockchain**.
 - Solving Data structure and algorithm questions in **Java & c++**.
 ## Hello World!! 🤔
 - 💬 Love to travel in mountains atleast once in a year.
